@@ -3,6 +3,7 @@ node_modules/
 
 # Environment variables
 .env
+.env.*
 
 # Logs
 logs/
@@ -14,11 +15,19 @@ yarn-error.log*
 # System files
 .DS_Store
 Thumbs.db
+*.swp
+*.swo
 
-# Optional IDE configs
+# IDE configs
 .vscode/
 .idea/
 
-# Build or temp files (if any)
+# Build or temp files
 dist/
+build/
 temp/
+*.tsbuildinfo
+
+# Package lock (if using only one)
+yarn.lock
+pnpm-lock.yaml
