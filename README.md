@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Text-to-Image Generator SaaS App 🚀🎨
 
 A **Full Stack AI SaaS Application** built using **MongoDB, Express, React, and Node.js (MERN Stack)**. This project allows users to generate AI images from text prompts using the **ClipDrop API**. It also features a **credit-based system** where users consume credits per image generation and can purchase more credits via an integrated online payment gateway.
@@ -29,3 +30,6 @@ A **Full Stack AI SaaS Application** built using **MongoDB, Express, React, and 
 
 
 
+=======
+# ImaginoAI
+>>>>>>> bc59bf83ad4ad11d41bf293c6cfd798ff41c3b55
