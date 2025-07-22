@@ -32,4 +32,5 @@ A **Full Stack AI SaaS Application** built using **MongoDB, Express, React, and 
 1. Clone the repo:
 
 ```bash
-
+git clone https://github.com/Ashish-Morwal/ImaginoAI.git
+cd ImaginoAI
