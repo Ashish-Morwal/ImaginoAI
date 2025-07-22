@@ -1,35 +1,35 @@
-<<<<<<< HEAD
-# AI Text-to-Image Generator SaaS App 🚀🎨
+# ImaginoAI 🚀🎨
 
-A **Full Stack AI SaaS Application** built using **MongoDB, Express, React, and Node.js (MERN Stack)**. This project allows users to generate AI images from text prompts using the **ClipDrop API**. It also features a **credit-based system** where users consume credits per image generation and can purchase more credits via an integrated online payment gateway.
+A **Full Stack AI SaaS Application** built using **MongoDB, Express, React, and Node.js (MERN Stack)**. ImaginoAI allows users to generate AI images from text prompts using the **ClipDrop API**. It features a **credit-based system**, where credits are consumed per image generation.
 
 ---
 
 ## 🖥️ Tech Stack
 
-- **Frontend:** React, Vite, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **AI API:** ClipDrop API
-- **Authentication:** JWT, bcrypt
-- **Payments:** Online Payment Gateway Integration (like Razorpay/Stripe)
-- **State Management:** React Context API
+- **Frontend:** React, Vite, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **AI API:** ClipDrop API  
+- **Authentication:** JWT, bcrypt  
+- **State Management:** React Context API  
 
 ---
 
 ## ✨ Features
 
-✅ AI Text to Image generation using **ClipDrop API**  
+✅ Generate AI images from text using **ClipDrop API**  
 ✅ **User Authentication** — Register, Login, Logout (JWT & bcrypt)  
-✅ **MongoDB Integration** to store user accounts, generated images, and credits  
-✅ **Credit-Based System** — Each image generation consumes credits  
-✅ **Online Payment Gateway** integration to buy credits securely  
-✅ **User Dashboard** to track generated images and available credits  
-✅ **Responsive and Clean UI** built with **React + Tailwind CSS**  
-✅ **Protected Routes** for authenticated users only  
+✅ **MongoDB Integration** — Store user accounts, generated images, and credits  
+✅ **Credit-Based System** — Each image generation consumes a credit  
+✅ **User Dashboard** — View generated images and available credits  
+✅ **Responsive UI** — Built with **React + Tailwind CSS**  
+✅ **Protected Routes** — Accessible only to authenticated users  
 
+---
 
+## 🚀 Getting Started
 
-=======
-# ImaginoAI
->>>>>>> bc59bf83ad4ad11d41bf293c6cfd798ff41c3b55
+1. Clone the repo:
+
+```bash
+
