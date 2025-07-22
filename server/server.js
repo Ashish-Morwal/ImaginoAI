@@ -12,7 +12,7 @@ app.use(express.json());
 
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://https://imaginoai-client.onrender.com",
+  "https://imaginoai-client.onrender.com",
 ];
 
 // apply cors to all routes
