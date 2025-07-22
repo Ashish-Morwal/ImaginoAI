@@ -12,7 +12,7 @@ app.use(express.json());
 
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://text-to-image-generator-1-04nn.onrender.com",
+  "https://https://imaginoai-client.onrender.com",
 ];
 
 // apply cors to all routes
