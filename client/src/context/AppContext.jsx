@@ -11,7 +11,8 @@ const AppContextProvider = (props) => {
   const [token, setToken] = useState(localStorage.getItem("token"));
 
   const [credit, setCredit] = useState(false);
-  const backendUrl = 'https://imaginoai-server.onrender.com';
+  const backendUrl = import.meta.env.VITE_BACKEND_URL;
+
 
   const navigate = useNavigate();
 
